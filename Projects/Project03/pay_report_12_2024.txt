@@ -1,30 +1,25 @@
 Pay Report for December 2024
 ==================================================
 
-Caregiver: Alice Smith
-Weekly Hours: 1.50
-Weekly Pay: $30.00
-Monthly Pay: $120.00
-------------------------------
 Caregiver: Bob Jones
-Weekly Hours: 1.50
-Weekly Pay: $30.00
-Monthly Pay: $120.00
+Weekly Hours: 4.50
+Weekly Pay: $90.00
+Monthly Pay: $360.00
 ------------------------------
 Caregiver: David Brown
-Weekly Hours: 1.50
-Weekly Pay: $30.00
-Monthly Pay: $120.00
+Weekly Hours: 7.50
+Weekly Pay: $150.00
+Monthly Pay: $600.00
 ------------------------------
 Caregiver: Frank Miller
+Weekly Hours: 3.00
+Weekly Pay: $60.00
+Monthly Pay: $240.00
+------------------------------
+Caregiver: AAA bbb
 Weekly Hours: 0.00
 Weekly Pay: $0.00
 Monthly Pay: $0.00
 ------------------------------
-Caregiver: Henry White
-Weekly Hours: 13.50
-Weekly Pay: $270.00
-Monthly Pay: $1080.00
-------------------------------
 
-Total Monthly Payroll: $1440.00
+Total Monthly Payroll: $1200.00
